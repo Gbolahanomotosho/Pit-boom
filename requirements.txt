@@ -1,0 +1,6 @@
+socket
+subprocess
+threading
+_thread
+requests
+asyncio
